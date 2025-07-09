@@ -1,0 +1,7 @@
+
+aws:
+  region: eu-north-1
+  s3:
+    bucket-name: image-processing-service-ays
+    access-key: ${AWS_ACCESS_KEY}
+    secret-key: ${AWS_SECRET_KEY}
